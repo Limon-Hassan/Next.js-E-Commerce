@@ -1,7 +1,10 @@
 import React from 'react'
+import { Slider } from './Slider'
 
 export const Hero_part = () => {
   return (
-    <div>Hero_part</div>
+    <>
+    <Slider></Slider>
+    </>
   )
 }
